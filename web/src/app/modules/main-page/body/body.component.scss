@@ -1,0 +1,30 @@
+.body-wrapper {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    height: 100vh;
+    max-height: 780px;
+    overflow-y: auto;
+
+    > table {
+        width: 25%;
+        color: #212529;
+        border-collapse: collapse;
+
+        th {
+            text-align: inherit;
+            padding: .75rem;
+            border-top: 1px solid #dee2e6;
+            vertical-align: bottom;
+            border-bottom: 2px solid #dee2e6;
+        }
+
+        td {
+            text-align: inherit;
+            padding: .75rem;
+            vertical-align: top;
+            border-top: 1px solid #dee2e6;
+        }
+    }
+}

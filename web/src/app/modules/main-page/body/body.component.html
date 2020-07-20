@@ -1,0 +1,16 @@
+<div class="body-wrapper">
+    <table>
+        <tr>
+            <th>assetId</th>
+            <th>name</th>
+            <th>partnerId</th>
+            <th>id</th>
+        </tr>
+        <tr *ngFor="let row of manufacturers$ | async; trackBy: trackByIndex">
+            <td>{{ row.assetId }}</td>
+            <td>{{ row.name }}</td>
+            <td>{{ row.partnerId }}</td>
+            <td>{{ row.id }}</td>
+        </tr>
+    </table>
+</div>

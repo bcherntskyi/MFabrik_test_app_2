@@ -1,0 +1,92 @@
+ [
+   {
+     "assetId": "11",
+     "name": "TRAFOGUARD ISM",
+     "partnerId": "123456",
+     "id": "TG1810130"
+   },
+   {
+     "assetId": "11",
+     "name": "MSENSE BM",
+     "partnerId": "123456",
+     "id": "BM1810128"
+   },
+   {
+     "assetId": "11",
+     "name": "DGA Sensor 01",
+     "partnerId": "123456",
+     "id": "DemoDgaSensor01"
+   },
+   {
+     "assetId": "11",
+     "name": "TRAFOGUARD ISM 1",
+     "partnerId": "123456",
+     "id": "DemoMCI_Geraet1"
+   },
+   {
+     "assetId": "07",
+     "name": "TRAFOGUARD ISM",
+     "partnerId": "123456",
+     "id": "TG1810129"
+   },
+   {
+     "assetId": "07",
+     "name": "MSENSE BM",
+     "partnerId": "123456",
+     "id": "BM1810127"
+   },
+   {
+     "assetId": "07",
+     "name": "DGA Sensor 02",
+     "partnerId": "123456",
+     "id": "DemoDgaSensor02"
+   },
+   {
+     "assetId": "07",
+     "name": "TRAFOGUARD ISM 2",
+     "partnerId": "123456",
+     "id": "DemoMCI_Geraet2"
+   },
+   {
+     "assetId": "05",
+     "name": "DGA Sensor 05",
+     "partnerId": "123456",
+     "id": "DemoDgaSensor05"
+   },
+   {
+     "assetId": "06",
+     "name": "DGA Sensor 06",
+     "partnerId": "123456",
+     "id": "DemoDgaSensor06"
+   },
+   {
+     "assetId": "12",
+     "name": "TRAFOGUARD ISM 2",
+     "partnerId": "123456",
+     "id": "DemoMCI_Geraet3"
+   },
+   {
+     "assetId": "13",
+     "name": "TRAFOGUARD",
+     "partnerId": "123456",
+     "id": "N0BAT10_TFGISM_1605936_WATER"
+   },
+   {
+     "assetId": "13",
+     "name": "AK1703",
+     "partnerId": "123456",
+     "id": "R0BBT30_TM1704_CCGR_WATER"
+   },
+   {
+     "assetId": "15",
+     "name": "MSENSE BM 3",
+     "partnerId": "123456",
+     "id": "BM1810129"
+   },
+   {
+     "assetId": "09",
+     "name": "DGA Sensor 09",
+     "partnerId": "123456",
+     "id": "DemoDgaSensor09"
+   }
+ ]
